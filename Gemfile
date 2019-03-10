@@ -2,11 +2,12 @@
 source "https://rubygems.org"
 
 gem 'sinatra'
-gem 'thin'
-gem 'require_all'
 gem 'activerecord', '4.2.5'
+gem 'thin'
+g
 gem 'sinatra-activerecord'
 gem 'rake'
+gem 'require_all'
 
 group :development do
 	gem 'shotgun'
