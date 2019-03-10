@@ -50,7 +50,6 @@ GEM
       rack
     rack-test (0.8.3)
       rack (>= 1.0, < 3)
-    rake (12.3.2)
     require_all (2.0.0)
     ripl (0.7.1)
       bond (~> 0.5.1)
@@ -108,7 +107,6 @@ DEPENDENCIES
   capybara
   pry
   rack-test
-  rake
   require_all
   rspec
   shotgun
